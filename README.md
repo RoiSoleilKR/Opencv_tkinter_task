@@ -64,7 +64,7 @@ pip install opencv-python pillow numpy
 
 ```bash
 
-Opencv_tkinter_task.py
+python Opencv_tkinter_task.py
 
 ```
 
